@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{55:function(t,e,n){"use strict";n.r(e),e.default={title:"Welcome!",tags:["rand0me"],spoiler:"Just starting out there",getContent:()=>n.e(4).then(n.bind(null,50))}}}]);
+//# sourceMappingURL=7.fae96f44.chunk.js.map
